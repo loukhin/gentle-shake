@@ -1,7 +1,7 @@
 name = "Gentle Shake"
 description = "Allow you to adjust the screen shake strength."
 author = "LoukHin"
-version = "1.0.1"
+version = "1.0.2"
 dst_compatible = true
 client_only_mod = true
 all_clients_require_mod = false
